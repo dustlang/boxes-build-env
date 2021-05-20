@@ -1,4 +1,4 @@
-# Build environment for Rust crates
+# Build environment for Dust Starships
 
 This repository contains the source of the Docker container the Rust project
 uses to build third-party crates. It is based on **Ubuntu 20.04**, and contains
