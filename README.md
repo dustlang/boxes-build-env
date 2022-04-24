@@ -1,8 +1,8 @@
-# Build environment for Dust Starships
+# Build environment for Dust Boxes
 
-This repository contains the source of the Docker container the Rust project
-uses to build third-party crates. It is based on **Ubuntu 20.04**, and contains
-all the native dependencies used by the Rust crates we know of.
+This repository contains the source of the Docker container the Dust project
+uses to build third-party boxes. It is based on **Ubuntu 20.04**, and contains
+all the native dependencies used by the Dust boxes we know of.
 
 ## Adding new dependencies
 
